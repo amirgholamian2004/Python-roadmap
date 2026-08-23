@@ -1,2 +1,2 @@
 # Python-roadmap
-My python projects.
+My python studies journey.
