@@ -9,7 +9,7 @@ to create and show:
 3. All the grades combined
 4. The best student's name and score
 
-## project-2 :
+# project-2 :
 
 
 
