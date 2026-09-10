@@ -34,3 +34,4 @@ while True:
     print(f"Shelf number: {shelf_number}", warehouse[shelf_number-1])
 
 
+
