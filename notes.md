@@ -10,6 +10,11 @@ to create and show:
 4. The best student's name and score
 
 # project-2 :
-
+## project-2 is a simple study on nested loops and while loops:
+Using enumerate() to track both the index and value while looping through a list of lists, I calculated
+the total inventory, counted empty slots, and found the position of the highest value in a warehouse dataset.
+I also used a while loop with break and continue to handle repeated user input safely. 
+The break statement lets me exit the loop when the user types "done", and continue lets me skip 
+invalid input without crashing the program.
 
 
