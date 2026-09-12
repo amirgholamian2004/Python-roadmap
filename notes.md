@@ -25,3 +25,10 @@ keyword arguments into a dictionary. I practiced both by building a simple invoi
 regular parameters,*args, a default keyword argument, and **kwargs together.
 
 
+# project-4 :
+## project-4 is a study on how to manage exception errors:
+I learned how to handle errors safely with try/except instead of letting the program crash.
+I used ZeroDivisionError to catch division by zero, and ValueError to catch invalid (non-numeric) 
+user input inside a while loop.
+
+
