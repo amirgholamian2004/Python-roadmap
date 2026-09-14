@@ -19,7 +19,7 @@ def main():
             name = input("Enter the name of your expense: ")
             try:
                 cost_input = input("Enter the cost of your expense: ")
-                cost_input = cost_input.replace("/", "").replace(",", "").replace(".", "")
+                cost_input = cost_input.replace("/", "").replace(",", "")
                 cost = float(cost_input)
                 expenses.append(Expense(name, cost))
                 print("Expense has been saved successfully.")
