@@ -32,3 +32,11 @@ I used ZeroDivisionError to catch division by zero, and ValueError to catch inva
 user input inside a while loop.
 
 
+# CLI project:
+## this project is comprehensive study on python for beginners:
+I practiced these concepts on my own: 
+Classes, functions and modules, loops and list comprehension, JSON storage,
+how to create menus, user inputs and error handling, etc. to build a CLI for expense management.
+[Files: expense.py, storage.py, main.py]
+
+
