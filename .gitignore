@@ -3,3 +3,4 @@
 __pycache__/
 *.pyc
 
+expense-manager/expenses.json
