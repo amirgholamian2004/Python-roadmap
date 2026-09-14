@@ -37,6 +37,7 @@ user input inside a while loop.
 I practiced these concepts on my own: 
 Classes, functions and modules, loops and list comprehension, JSON storage,
 how to create menus, user inputs and error handling, etc. to build a CLI for expense management.
+
 [Files: expense.py, storage.py, main.py]
 
 
