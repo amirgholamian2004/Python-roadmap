@@ -43,11 +43,14 @@ how to create menus, user inputs and error handling, etc. to build a CLI for exp
 
 # Car class:
 ## this project is a simple (OOP) practice:
-I created a Car class and developed it with heater and sensor as different classes using composition with a method called: (turn_heater_on), inside the method we use two other methods built inside Heater class.
+I created a Car class and developed it with heater and sensor as different classes using composition with a method called: (turn_heater_on). Inside the method we use two other methods built inside Heater class,
 the methods are designed to first turn the heater on(turn_on), then raise the temperature to the requested level(reach_requested_temp) 
 and then shut down(turn_off).
-the Sensor class has a method called (show), it generates a random number as a hypothetical temperature, we call this method 
+The Sensor class has a method called (show), it generates a random number as a hypothetical temperature, we call this method 
 inside (reach_requested_temp) and then assign it as the measured_temp.
 So when you use the method(turn_heater_on) on an object from Car class(like c1):
 It starts raising the generated number until it reaches the requested temperature(which is 25 by default), 
 then it gets shut down through (turn_off) method.
+
+[Files: car.py, heater.py, sensor.py]
+
